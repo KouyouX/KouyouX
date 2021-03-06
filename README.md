@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**Xerakhez/Xerakhez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Xerakhez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xerakhez&count_private=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xerakhez)
 
-Here are some ideas to get you started:
+## Let me introduce myself.
+Call me Xera, Xerakhez or Yang Ye.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm not a full-time programmer, just a student who is interested in programming and ACG.  
+I mainly program in java, sometimes lua, python or c. Interested in python, kotlin, c/c++, rust, go.
+Writing my own language: [Suika](https://github.com/SuikaLang/Suika/)!
+
+## Contact
+- Email: me@xera.top
+- Github: [@Xerakhez](https://github.com/Xerakhez/) 
+- Bilibili: [Xerakhez](https://space.bilibili.com/65806374)
+- QQ: 2496566549(Official Account).
+- Gitee: [@Xerakhez](https://gitee.com/Xerakhez)
+
+_Fun fact: I'm very lazy, and it's not fun_
