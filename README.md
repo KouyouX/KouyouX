@@ -7,8 +7,10 @@
 Call me 紅葉, kouyou or Yang Ye.
 
 I'm not a full-time programmer, just a student who is interested in programming and ACG.  
-I mainly program in java, sometimes lua, python or c. Interested in python, kotlin, c/c++, rust, go.
-Writing my own language: [Suika](https://github.com/SuikaLang/Suika/)!
+
+I mainly program in java, kotlin and python. Besides, I can use lua, c/cpp, rust and go.
+
+Writing my own programming language: [Suika](https://github.com/SuikaLang/Suika/)!
 
 ## Contact
 - Email: me@kouyou.moe
@@ -16,4 +18,5 @@ Writing my own language: [Suika](https://github.com/SuikaLang/Suika/)!
 - Bilibili: [@紅葉X](https://space.bilibili.com/65806374)
 - QQ: 2496566549(Official Account).
 - Gitee: [@Kouyou](https://gitee.com/Kouyou)
+
 _Fun fact: I'm very lazy, and it's not fun_
