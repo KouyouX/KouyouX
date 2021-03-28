@@ -1,8 +1,7 @@
 # Hi there 👋
 
 ![KouyouX's GitHub stats](https://github-readme-stats.vercel.app/api?username=KouyouX&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouyouX&layout=compact)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KouyouX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouyouX&layout=compact
 
 ## Let me introduce myself.
 Call me 紅葉, kouyou or Yang Ye.
