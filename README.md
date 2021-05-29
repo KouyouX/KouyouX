@@ -13,9 +13,9 @@ I mainly program in java, kotlin and python. Besides, I can use lua, c/cpp, rust
 Writing my own programming language: [Suika](https://github.com/SuikaLang/Suika/)!
 
 ## Contact
-- Email: me@kouyou.moe
+- Email: i@kouyou.moe
 - Github: [@KouyouX](https://github.com/KouyouX/) 
-- Bilibili: [@紅葉X](https://space.bilibili.com/65806374)
+- Bilibili: [@KouyouX](https://space.bilibili.com/65806374)
 - QQ: 2496566549(Official Account).
 - Gitee: [@Kouyou](https://gitee.com/Kouyou)
 
