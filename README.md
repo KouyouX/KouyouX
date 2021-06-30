@@ -10,12 +10,12 @@ I'm not a full-time programmer, just a student who is interested in programming 
 
 I mainly program in java, kotlin and python. Besides, I can use lua, c/cpp, rust and go.
 
-Writing my own programming language: [Suika](https://github.com/SuikaLang/Suika/)!
+Doing works about COMPILERS.
 
 ## Contact
 - Email: i@kouyou.moe
 - Github: [@KouyouX](https://github.com/KouyouX/) 
-- Bilibili: [@KouyouX](https://space.bilibili.com/65806374)
+- Bilibili: [@緋想の剣](https://space.bilibili.com/65806374)
 - QQ: 2496566549(Official Account).
 - Gitee: [@Kouyou](https://gitee.com/Kouyou)
 
