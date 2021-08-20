@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouyouX&layout=compact)
 
 ## Let me introduce myself.
-Call me 紅葉, kouyou or Yang Ye.
+Call me 紅葉, kouyou.
 
 I'm not a full-time programmer, just a student who is interested in programming and ACG.  
 
@@ -13,7 +13,7 @@ I mainly program in java, kotlin and python. Besides, I can use lua, c/cpp, rust
 Doing works about COMPILERS.
 
 ## Contact
-- Email: i@kouyou.moe
+- Email: i@ky.gl
 - Github: [@KouyouX](https://github.com/KouyouX/) 
 - Bilibili: [@緋想の剣](https://space.bilibili.com/65806374)
 - QQ: 2496566549(Official Account).
