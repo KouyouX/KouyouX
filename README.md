@@ -3,7 +3,7 @@
 ![KouyouX's GitHub stats](https://github-readme-stats.vercel.app/api?username=KouyouX&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouyouX&layout=compact)
 
-## Let me introduce myself.
+## About me
 Call me 紅葉, kouyou.
 
 I'm not a full-time programmer, just a student who is interested in programming and ACG.  
@@ -15,7 +15,7 @@ Doing works about COMPILERS.
 ## Contact
 - Email: i@ky.gl
 - Github: [@KouyouX](https://github.com/KouyouX/) 
-- Bilibili: [@緋想の剣](https://space.bilibili.com/65806374)
+- Bilibili: [@MinagiHiyori](https://space.bilibili.com/65806374)
 - QQ: 2496566549(Official Account).
 - Gitee: [@Kouyou](https://gitee.com/Kouyou)
 
