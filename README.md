@@ -16,7 +16,6 @@ Doing works about COMPILERS.
 - Email: i@ky.gl
 - Github: [@KouyouX](https://github.com/KouyouX/) 
 - Bilibili: [@MinagiHiyori](https://space.bilibili.com/65806374)
-- QQ: 2496566549(Official Account).
 - Gitee: [@Kouyou](https://gitee.com/Kouyou)
 
 _Fun fact: I'm very lazy, and it's not fun_
