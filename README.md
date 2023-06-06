@@ -4,18 +4,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KouyouX&layout=compact)
 
 ## About me
-Call me 紅葉, kouyou.
+val MochizukiHaruka by lazy { programming() }
 
 I'm not a full-time programmer, just a student who is interested in programming and ACG.  
 
-I mainly program in java, kotlin and python. Besides, I can use lua, c/cpp, rust and go.
+Mainly program in java, kotlin and python. Interested in lua, c/cpp, rust and go.
 
-Doing works about COMPILERS.
+amateur compiler developer
 
 ## Contact
-- Email: i@ky.gl
+- Email: mh@owari.org
 - Github: [@KouyouX](https://github.com/KouyouX/) 
-- Bilibili: [@MinagiHiyori](https://space.bilibili.com/65806374)
+- Bilibili: [@速食冻橘](https://space.bilibili.com/65806374)
 - Gitee: [@Kouyou](https://gitee.com/Kouyou)
 
-_Fun fact: I'm very lazy, and it's not fun_
+
