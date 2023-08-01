@@ -16,6 +16,3 @@ amateur compiler developer
 - Email: mh@owari.org
 - Github: [@KouyouX](https://github.com/KouyouX/) 
 - Bilibili: [@速食冻橘](https://space.bilibili.com/65806374)
-- Gitee: [@Kouyou](https://gitee.com/Kouyou)
-
-
